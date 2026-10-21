@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#172437">
+  <title>Power9 Desk Reset — Prototype Lab 2</title>
+  <link rel="stylesheet" href="styles.css?v=3">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="workspace">
+    <aside class="guide" aria-label="Hướng dẫn prototype">
+      <p class="eyebrow">LAB 2 · PRM323 / PRM393</p>
+      <div class="wordmark">POWER<span>9</span><small>DESK RESET</small></div>
+      <h1>Nghỉ đúng lúc.<br><em>Không lỡ nhịp làm việc.</em></h1>
+      <p class="guide-copy">Prototype cá nhân của <strong>Phạm Quang Đức · SE182178</strong>. Persona Huy là nhân vật giả định, nhân viên văn phòng 28 tuổi có lịch họp thay đổi.</p>
+      <div class="flow-picker" aria-label="Chọn luồng demo">
+        <button type="button" class="flow-card" data-flow="f1"><span>01 · Tạo thói quen</span><strong>Chọn mẫu nghỉ ngắn</strong><small>Thư viện → cấu hình → lưu</small></button>
+        <button type="button" class="flow-card" data-flow="f2"><span>02 · Ghi nhận</span><strong>Check-in và xem báo cáo</strong><small>Hôm nay → tiến độ → báo cáo</small></button>
+        <button type="button" class="flow-card" data-flow="f3"><span>03 · Đổi lịch</span><strong>Nhắc trùng giờ họp</strong><small>Thông báo → dời nhanh → xác nhận</small></button>
+      </div>
+      <details class="demo-controls"><summary>Thử trạng thái và phục hồi</summary><div class="flow-picker"><button type="button" class="flow-card" data-demo="save-error">Lỗi lưu, giữ dữ liệu</button><button type="button" class="flow-card" data-demo="report-error">Lỗi báo cáo và thử lại</button><button type="button" class="flow-card" data-demo="empty-home">Lịch nghỉ trống</button><button type="button" class="flow-card" data-demo="missing-target">Hoạt động thông báo đã xóa</button></div></details>
+      <p class="prototype-note">Dữ liệu ngày 14/10/2026 cố định để lặp lại ba flow. Đăng nhập, lưu và báo cáo được mô phỏng trong phiên; tải lại sẽ reset. App Flutter là sản phẩm riêng trong workspace.</p>
+      <a class="dossier-link" href="../index.html">← Hồ sơ Persona và bài nộp</a>
+    </aside>
+    <section class="device-wrap" aria-label="Màn hình ứng dụng di động">
+      <div class="device">
+        <div class="device-status" aria-hidden="true"><span>9:41</span><span>●●● ▰</span></div>
+        <div id="app" class="app" aria-label="Power9 Desk Reset"></div>
+      </div>
+      <p class="device-caption">Bản HTML · vùng nội dung 360 × 800 px trên desktop</p>
+    </section>
+  </main>
+</body>
+</html>

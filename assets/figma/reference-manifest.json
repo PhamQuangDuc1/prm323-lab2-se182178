@@ -1,0 +1,76 @@
+{
+  "copied_on": "2026-10-21",
+  "provenance": "Existing workspace figma_export; Flutter README identifies these as Figma frames. Native source not verified.",
+  "items": [
+    {
+      "screen": "S01",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S01 Đăng nhập demo.png",
+      "file": "references/S01.png",
+      "sha256": "92a50571f7db4813355c44f979357d145bb621cd7190e5364f4e4b534bea8a01",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S02",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S02 Hôm nay.png",
+      "file": "references/S02.png",
+      "sha256": "3235dc5149950b322864efd6b0dd82957d652de92dfb7fa1e48ab11b8705904c",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S03",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S03 Thư viện Power9.png",
+      "file": "references/S03.png",
+      "sha256": "4720c14af028ce566f4bd6f4db476990acfb9af24f721426b2e6afdb106b485c",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S04",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S04 Chi tiết Downshift.png",
+      "file": "references/S04.png",
+      "sha256": "a2f5602db2b628af878651fe0944fafe0bc4902e34433e0f7b0f4f040def000f",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S05",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S05 Tạo\\sửa thói quen.png",
+      "file": "references/S05.png",
+      "sha256": "4b14ecfdb15a58900208d7c00de40eff3b23fe5f880389c7e7debb400de74d91",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S06",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S06 Chi tiết hoạt động.png",
+      "file": "references/S06.png",
+      "sha256": "bda1f50693f2701d1389cdd7800c8c736285ceda50fbaac8b2e4f33a2266d483",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S07",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S07 Tiến độ.png",
+      "file": "references/S07.png",
+      "sha256": "c53610a7fe9d19cb00fd6f5d7caf04105bd9ebbdaa30ee044e0ec8f5c04290c0",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S08",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S08 Báo cáo.png",
+      "file": "references/S08.png",
+      "sha256": "c8ce41448ab36e3e35ef6f14def997ff62f979cba3438890b183dbf97f959256",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S09",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S09 Cá nhân.png",
+      "file": "references/S09.png",
+      "sha256": "646f1ee12c2feb9d654287b6b6303a5182089c8aae91ba3a2fa14c9f030f6ced",
+      "status": "existing_reference_source_file_unverified"
+    },
+    {
+      "screen": "S10",
+      "source": "D:\\hoc2026\\prm\\figma_export\\S10 Thông báo.png",
+      "file": "references/S10.png",
+      "sha256": "6187e72fad1fad8f03a6f1c9289f2875fee8706f657c2afa41fd62ad4c1d1921",
+      "status": "existing_reference_source_file_unverified"
+    }
+  ]
+}
